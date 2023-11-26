@@ -5,3 +5,4 @@ INSERT INTO tb_contatos (nome, email) VALUES ('Maria', 'maria@gmail.com');
 INSERT INTO tb_contatos (nome, email) VALUES ('Bob', 'bob@gmail.com');
 INSERT INTO tb_contatos (nome, email) VALUES ('Alex', 'alex@gmail.com');
 INSERT INTO tb_contatos (nome, email) VALUES ('Ana', 'ana@gmail.com');
+
